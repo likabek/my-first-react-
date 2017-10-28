@@ -1,0 +1,12 @@
+.button {
+  display: flex;
+
+
+  background-color: skyblue;
+  width:70px;
+  height: 70px;
+  border-radius: 50px;
+  
+  align-items: center;
+  justify-content: center;
+}
